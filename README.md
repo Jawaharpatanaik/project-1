@@ -38,14 +38,8 @@ cd LandingPageNike-main
 2. Install Dependencies
 Make sure you have Node.js and npm installed.
 
-bash
-Copy
-Edit
-npm install
 3. Run the Development Server
-bash
-Copy
-Edit
+
 npm run dev
 Then open your browser and visit:
 👉 http://localhost:5173
@@ -55,7 +49,6 @@ Then open your browser and visit:
 
 To create an optimized production build:
 
-```bash
 npm run build
  Technologies Used
 Tailwind CSS – for fast and responsive styling
